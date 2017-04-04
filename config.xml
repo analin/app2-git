@@ -34,13 +34,6 @@
  <!--Third party plugings-->
  
  <!--colocar icono app-->
- 
- <!--para acceder a internet-->
- <allow-intent href="https://*/*"/>
- <acces origin="https://*/*"/>
- <allow-intent href="http://*/*"/>
- <acces origin="http://*/*"/>
- <pligin name="cordova-pligin-whitelist" source="npm">
   
   <icon src="res/android/mdpi.png"/>
   
